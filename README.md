@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="logo.png" alt="BlinkBrief Logo" width="120" style="border-radius:16px;"><br><br>
+  <b>Smart briefs in a blink.</b><br>
+  <a href="https://blinkbrief.github.io/blinkbrief/" target="_blank">
+    🌐 Visit Website
+  </a> •
+  <a href="https://github.com/blinkbrief/blinkbrief/issues" target="_blank">
+    🐛 Report Bug
+  </a> •
+  <a href="https://github.com/blinkbrief/blinkbrief/pulls" target="_blank">
+    💡 Suggest Feature
+  </a>
+</p>
+
+---
+
+# BlinkBrief
+**Smart briefs in a blink.**
 ## Hi there 👋
 
 <!--
