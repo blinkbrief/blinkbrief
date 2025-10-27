@@ -1,34 +1,48 @@
-<p align="center">
-  <img src="logo.png" alt="BlinkBrief Logo" width="120" style="border-radius:16px;"><br><br>
-  <b>Smart briefs in a blink.</b><br>
-  <a href="https://blinkbrief.github.io/blinkbrief/" target="_blank">
-    🌐 Visit Website
-  </a> •
-  <a href="https://github.com/blinkbrief/blinkbrief/issues" target="_blank">
-    🐛 Report Bug
-  </a> •
-  <a href="https://github.com/blinkbrief/blinkbrief/pulls" target="_blank">
-    💡 Suggest Feature
-  </a>
-</p>
+# 📰 Blink Brief
+
+**Blink Brief** is a free, open-source Chrome extension that summarises news articles instantly — with no clutter or clickbait.
+
+It works locally in your browser using Mozilla Readability, meaning **no data is collected, tracked, or sent to any server**.
 
 ---
 
-# BlinkBrief
-**Smart briefs in a blink.**
-## Hi there 👋
+## 🚀 Features
 
-<!--
-**blinkbrief/blinkbrief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Clean, local summarisation (no AI or internet calls)
+- 📋 Copy summary with one click
+- 📰 Works on most news sites (BBC, CNN, Guardian, etc.)
+- 🔒 100% privacy-safe — runs entirely in your browser
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 How to Install
+
+1. Download or clone this repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/blink-brief.git
+   ```
+2. Open Chrome and go to `chrome://extensions`
+3. Enable **Developer Mode** (top right)
+4. Click **Load unpacked**
+5. Select your `blink-brief` folder
+6. Click the Blink Brief icon → “Generate Summary”
+
+---
+
+## 📚 Tech Stack
+
+- **Manifest V3**
+- **Vanilla JavaScript**
+- **Mozilla Readability**
+- **Chrome Extension APIs**
+
+---
+
+## 🛡️ Privacy
+
+Blink Brief does not collect or store any data.  
+All processing happens locally inside your browser.  
+
+---
+
+Made with ❤️ by **Blink Brief**

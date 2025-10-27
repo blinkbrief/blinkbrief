@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Blink Brief",
+  "version": "1.0",
+  "description": "Blink Brief gives you instant, clutter-free summaries of any news article — from BBC to CNN — in a single click.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Blink Brief",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
